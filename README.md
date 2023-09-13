@@ -1,9 +1,9 @@
 # assembler
-A basic assembler which converts assembly code into equivalent binary instruction.
+A basic assembler that converts assembly code into equivalent binary instruction.
 
-Word size : 16 bit,
+Word size: 16 bit,
 1 Direct/Indirect bit,
 3 Operation Code bits,
 12 Address Bits,
 
-cummand  : python3 assembler.py inputFileName outputFileName
+command: python3 assembler.py inputFileName outputFileName
